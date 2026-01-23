@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<a href="https://www.youtube.com/@RexCrawd">"My yt chanel"</a>
+</head>
+<body>
+<main>
+This is my final project i hope you enjoy
+</main>
+<title>MY PROJECT</title>
+<h1>
+    after all i laerned this is the result
+</h1>
+<p>
+    Iam happy to learn html
+</p>
+img src=gheime.jpg          width=50% alt="best food">
+<img src="moonswatch.png"    width="50%" alt= "my favorite watch">
+<img src="gheime.jpg"         width="50%" alt="best food">
+<img src="mouse.jpeg"    width="50%" alt= "best mouse">
+<p>i love g pro</p>
+<p>I love moonswatch neptune</p>
+<ol>
+    <li>Apple</li>
+    <li>Banana</li>
+    <li>Grape</li>
+    <li>Cherry</li>
+</ol>
+</body>
+</html>
